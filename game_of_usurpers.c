@@ -21,7 +21,7 @@ int flag() {
 }
 
 void read_flag() {
-  if (id && passwd) {
+  if (id == 1234 && passwd == 5678) {
     printf("This way, Your Highness.\n");
     flag();
   }
