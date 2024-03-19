@@ -8,6 +8,8 @@
 ## Hint
 > What happens if you say something OTHER than yes or no?
 
+> If permission denied when running the file, try  `chmod a+x`
+
 ## Solution
 
 References
